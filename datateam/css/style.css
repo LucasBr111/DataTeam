@@ -1,10 +1,11 @@
 :root {
-    --primary-color: #FC5185;
-    --secondary-color: #4EA8DE;
-    --accent-color: #FFC75F;
-    --highlight-color: #FFF9EE;
-    --dark-color: #364F6B;
-    --light-color: #F9F7FA;
+    /* Este es mi repositorio local */
+    --primary-color: #1A7B8E;
+    --secondary-color: #2CB3C8;
+    --accent-color: #7FDEFF;
+    --highlight-color: #E6FDFF;
+    --dark-color: #0F4C5C;
+    --light-color: #F0F8FF;
     --text-color: #333333;
     --box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
     --transition-slow: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
